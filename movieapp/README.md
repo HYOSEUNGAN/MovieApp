@@ -9,7 +9,6 @@ npm install react-bootstrap bootstrap
 npm install @reduxjs/toolkit
 npm install redux react-redux
 npm i redux-thunk
-npm i redux-thunk
 
 npm 설치 필요
 1차 계획(프론트)
